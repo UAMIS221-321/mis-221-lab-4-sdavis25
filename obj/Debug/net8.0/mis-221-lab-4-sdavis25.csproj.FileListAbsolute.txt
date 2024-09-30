@@ -1,0 +1,15 @@
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\bin\Debug\net8.0\mis-221-lab-4-sdavis25.exe
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\bin\Debug\net8.0\mis-221-lab-4-sdavis25.deps.json
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\bin\Debug\net8.0\mis-221-lab-4-sdavis25.runtimeconfig.json
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\bin\Debug\net8.0\mis-221-lab-4-sdavis25.dll
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\bin\Debug\net8.0\mis-221-lab-4-sdavis25.pdb
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.AssemblyInfoInputs.cache
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.AssemblyInfo.cs
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.csproj.CoreCompileInputs.cache
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.sourcelink.json
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.dll
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\refint\mis-221-lab-4-sdavis25.dll
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.pdb
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\mis-221-lab-4-sdavis25.genruntimeconfig.cache
+C:\Users\solid\OneDrive\Documents\MIS 221 Code\mis-221-lab-4-sdavis25\obj\Debug\net8.0\ref\mis-221-lab-4-sdavis25.dll
